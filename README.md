@@ -24,12 +24,12 @@ To deploy the Walid Gym website, please follow these steps:
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/Waliddjla/walidGym.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd walid-gym
+   cd walidgym 
    ```
 
 3. Customize the content:
