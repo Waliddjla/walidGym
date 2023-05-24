@@ -1,7 +1,7 @@
-# Walid Gym - Website Readme
+# [Walid Gym](https://walid-gym.netlify.app/) - Website Readme
 
 Welcome to the Walid Gym website repository! Here you'll find all the necessary information to understand, customize, and deploy our dynamic website for fitness enthusiasts. 
-[walid-gym](https://bazzoka-agence.netlify.app/)
+
 ## Description
 The Walid Gym website is a comprehensive platform designed to showcase our gym facilities, provide information about available equipment, track fitness progress, and enable seamless communication. Built using HTML, CSS, and JavaScript, our website offers a modern design and a user-friendly interface.
 
